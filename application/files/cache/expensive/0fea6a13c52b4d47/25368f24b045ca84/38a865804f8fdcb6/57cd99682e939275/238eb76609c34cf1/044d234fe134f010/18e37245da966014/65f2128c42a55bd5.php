@@ -1,0 +1,17 @@
+<?php 
+/* Cachekey: cache/stash_default/community_translation/font_awesome_ckeditor_plugin@0.9.1l60/ */
+/* Type: array */
+/* Expiration: 2019-03-25T02:39:29+00:00 */
+
+
+
+$loaded = true;
+$expiration = 1553481569;
+
+$data = array();
+
+/* Child Type: array */
+$data['return'] = unserialize(base64_decode('YTozOntzOjEzOiJ2ZXJzaW9uSGFuZGxlIjtzOjU6IjAuOS4xIjtzOjExOiJ2ZXJzaW9uTmFtZSI7czo1OiIwLjkuMSI7czo3OiJsb2NhbGVzIjthOjM6e2k6MDthOjc6e3M6MjoiaWQiO3M6NToiemhfQ04iO3M6NDoibmFtZSI7czoxNToiQ2hpbmVzZSAoQ2hpbmEpIjtzOjEzOiJuYW1lTG9jYWxpemVkIjtzOjE1OiJDaGluZXNlIChDaGluYSkiO3M6NToidG90YWwiO2k6MjtzOjEwOiJ0cmFuc2xhdGVkIjtpOjI7czo4OiJwcm9ncmVzcyI7aToxMDA7czo3OiJ1cGRhdGVkIjtzOjI1OiIyMDE4LTA0LTIyVDA2OjI0OjM2KzAwOjAwIjt9aToxO2E6Nzp7czoyOiJpZCI7czo1OiJkZV9ERSI7czo0OiJuYW1lIjtzOjE2OiJHZXJtYW4gKEdlcm1hbnkpIjtzOjEzOiJuYW1lTG9jYWxpemVkIjtzOjE2OiJHZXJtYW4gKEdlcm1hbnkpIjtzOjU6InRvdGFsIjtpOjI7czoxMDoidHJhbnNsYXRlZCI7aToyO3M6ODoicHJvZ3Jlc3MiO2k6MTAwO3M6NzoidXBkYXRlZCI7czoyNToiMjAxOC0wNS0yNFQwOToxMjo0OCswMDowMCI7fWk6MjthOjc6e3M6MjoiaWQiO3M6NToiZWxfR1IiO3M6NDoibmFtZSI7czoxNDoiR3JlZWsgKEdyZWVjZSkiO3M6MTM6Im5hbWVMb2NhbGl6ZWQiO3M6MTQ6IkdyZWVrIChHcmVlY2UpIjtzOjU6InRvdGFsIjtpOjI7czoxMDoidHJhbnNsYXRlZCI7aToyO3M6ODoicHJvZ3Jlc3MiO2k6MTAwO3M6NzoidXBkYXRlZCI7czoyNToiMjAxOC0wNC0xNVQxNToyNToxMiswMDowMCI7fX19'));
+
+/* Child Type: integer */
+$data['createdOn'] = 1553478442;

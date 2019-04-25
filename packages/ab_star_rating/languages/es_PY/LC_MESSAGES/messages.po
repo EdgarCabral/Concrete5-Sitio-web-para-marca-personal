@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ab_star_rating 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-10-21T11:30:33+11:00\n"
+"PO-Revision-Date: 2019-03-23 12:13-0300\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: packages/ab_star_rating/controller.php:45
+msgid "Add Star Rating package"
+msgstr "Добавить модуль Звездного Рейтинга"
+
+#: packages/ab_star_rating/controller.php:50
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:50
+msgid "Star Rating"
+msgstr "Звездный Рейтинг"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:45
+msgid "Add Star Rating block"
+msgstr "Добавить блок Звездного Рейтинга"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:59
+msgid "Something went wrong, please try again"
+msgstr "Что-то пошло не так, пожалуйста попробуйте еще раз"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:60
+msgid "Please log in to post rating"
+msgstr "Пожалуйста, войдите, чтобы оставить рейтинг"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:61
+msgid "Your rating has already been posted, please wait for %s before posting another one"
+msgstr "Tu opinion ya se ha publicado, tendrás que esperar: %s."
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:62
+msgid "Errors found:"
+msgstr "Algo salió mal:"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:184
+msgid "seconds"
+msgstr "segundos"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:186
+msgid "minutes"
+msgstr "minutos"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:189
+msgid "hours"
+msgstr "horas"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:230
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:166
+msgid "Size must be decimal value from 0.7 to 2"
+msgstr "Размер должен быть десятичным числом от 0.7 до 2"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:40
+msgid "Rating block"
+msgstr "Блок рейтинга"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:48
+msgid "Star-Font Size (em)"
+msgstr "Размер символа звезды (em)"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:50
+msgid "Values from 0.7 to 2"
+msgstr "Значения от 0.7 до 2"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:57
+msgid "Star Color"
+msgstr "Цвет звезды"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:71
+msgid "Show average rating?"
+msgstr "Показывать средний рейтинг?"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:82
+msgid "Show text with stars?"
+msgstr "Показывать текст со звездами?"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:89
+msgid "Max 256 characters"
+msgstr "Макс 256 символов"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:96
+msgid "Awful"
+msgstr "Ужасно"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:104
+msgid "Bad"
+msgstr "Плохо"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:112
+msgid "Ok"
+msgstr "Нормально"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:120
+msgid "Good"
+msgstr "Хорошо"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:128
+msgid "Awesome"
+msgstr "Отлично"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:153
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:60
+msgid "Oops"
+msgstr "Ой"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:154
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:61
+msgid "Numbers only!"
+msgstr "Только числа!"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:165
+msgid "Size value error:"
+msgstr "Ошибка значения размера:"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/view.php:32
+msgid "Thank you for your rating"
+msgstr "Gracias por tu opinion :)"
+
+#: packages/ab_star_rating/blocks/ab_star_rating/view.php:38
+msgid "Average rating"
+msgstr "Средний рейтинг"
+
+#: packages/ab_star_rating/controllers/single_page/dashboard/star_rating_settings.php:37
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: packages/ab_star_rating/controllers/single_page/dashboard/star_rating_settings.php:66
+msgid "Min wait must be integer < 86400"
+msgstr "Мин период ожидания должен быть < 86400"
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:32
+msgid "Min Wait Period between Posts (sec)"
+msgstr "Мин период ожидания между отправками (сек)"
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:34
+msgid "Values from 0 to 86400 (86400 sec = 24 h)"
+msgstr "Значения от 0 до 86400 (86400 сек = 24 ч)"
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:40
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: packages/ab_star_rating/src/StarRating/Install/SinglePages.php:43
+msgid "Star Rating Settings"
+msgstr "Configuración de valoración"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema
+    xmlns="http://www.concrete5.org/doctrine-xml/0.5"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.concrete5.org/doctrine-xml/0.5 http://concrete5.github.io/doctrine-xml/doctrine-xml-0.5.xsd">
+
+  <table name="btAbStarRating">
+    <field name="bID" type="integer"><unsigned/><key/></field>
+    <field name="size" type="string" size="3"/>
+    <field name="color" type="string" size="7"/>
+    <field name="show_av_rating" type="boolean"><default value="0"/></field>
+    <field name="show_star_text" type="boolean"><default value="0"/></field>
+    <field name="star1_text" type="string" size="256"/>
+    <field name="star2_text" type="string" size="256"/>
+    <field name="star3_text" type="string" size="256"/>
+    <field name="star4_text" type="string" size="256"/>
+    <field name="star5_text" type="string" size="256"/>
+    <field name="star1_num" type="integer"></field>
+    <field name="star2_num" type="integer"></field>
+    <field name="star3_num" type="integer"></field>
+    <field name="star4_num" type="integer"></field>
+    <field name="star5_num" type="integer"></field>
+  </table>
+  
+  <table name="AbStarRating">
+    <field name="uID" type="integer"><unsigned/><key/></field>
+    <field name="bID" type="integer"><unsigned/><key/></field>
+    <field name="timestamp" type="string" size="100"><notnull/></field>
+  </table>
+  
+</schema>

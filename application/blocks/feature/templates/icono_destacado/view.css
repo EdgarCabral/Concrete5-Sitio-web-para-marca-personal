@@ -1,0 +1,15 @@
+div.ccm-block-feature-item p {
+    margin-left: 0px;
+}
+
+div.ccm-block-feature-item i {
+    margin-right: 10px;
+    font-size: 30px;
+    margin-top: -7px;
+}
+div.ccm-block-feature-item {
+    margin-bottom: 40px;
+}
+div.ccm-page div.ccm-block-feature-item{
+    padding-left: 35px;
+}

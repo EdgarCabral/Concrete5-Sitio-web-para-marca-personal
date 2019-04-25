@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btImageWall">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="fileset" type="C" size="255"></field>
+        <field name="ribbonAnim" type="C" size="10"></field>
+        <field name="imageAnim" type="C" size="10"></field>
+        <field name="captionEnable" type="C" size="10"></field>
+        <field name="easing" type="c" size="50"></field>
+        <field name="imgeasing" type="C" size="50"></field>
+    </table>
+    <table name="btImageWallThumb">
+        <field name="id" type="I"><unsigned/><key/><autoincrement/></field>
+        <field name="bID" type="I"></field>
+        <field name="fID" type="I"></field>
+        <field name="sort" type="I"></field>
+    </table>
+</schema>

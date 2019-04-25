@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ab_star_rating 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-10-21T11:30:33+11:00\n"
+"PO-Revision-Date: 2018-10-21T11:30:33+11:00\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: packages/ab_star_rating/controller.php:45
+msgid "Add Star Rating package"
+msgstr ""
+
+#: packages/ab_star_rating/controller.php:50
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:50
+msgid "Star Rating"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:45
+msgid "Add Star Rating block"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:59
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:60
+msgid "Please log in to post rating"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:61
+msgid "Your rating has already been posted, please wait for %s before posting another one"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:62
+msgid "Errors found:"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:184
+msgid "seconds"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:186
+msgid "minutes"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:189
+msgid "hours"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/controller.php:230
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:166
+msgid "Size must be decimal value from 0.7 to 2"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:40
+msgid "Rating block"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:48
+msgid "Star-Font Size (em)"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:50
+msgid "Values from 0.7 to 2"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:57
+msgid "Star Color"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:71
+msgid "Show average rating?"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:82
+msgid "Show text with stars?"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:89
+msgid "Max 256 characters"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:96
+msgid "Awful"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:104
+msgid "Bad"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:112
+msgid "Ok"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:120
+msgid "Good"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:128
+msgid "Awesome"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:153
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:60
+msgid "Oops"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:154
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:61
+msgid "Numbers only!"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/form.php:165
+msgid "Size value error:"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/view.php:32
+msgid "Thank you for your rating"
+msgstr ""
+
+#: packages/ab_star_rating/blocks/ab_star_rating/view.php:38
+msgid "Average rating"
+msgstr ""
+
+#: packages/ab_star_rating/controllers/single_page/dashboard/star_rating_settings.php:37
+msgid "Settings Saved"
+msgstr ""
+
+#: packages/ab_star_rating/controllers/single_page/dashboard/star_rating_settings.php:66
+msgid "Min wait must be integer < 86400"
+msgstr ""
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:32
+msgid "Min Wait Period between Posts (sec)"
+msgstr ""
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:34
+msgid "Values from 0 to 86400 (86400 sec = 24 h)"
+msgstr ""
+
+#: packages/ab_star_rating/single_pages/dashboard/star_rating_settings.php:40
+msgid "Save Settings"
+msgstr ""
+
+#: packages/ab_star_rating/src/StarRating/Install/SinglePages.php:43
+msgid "Star Rating Settings"
+msgstr ""

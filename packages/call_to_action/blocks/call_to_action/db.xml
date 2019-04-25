@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btCallToAction">
+		<field name="bID" type="I">
+			<key></key>
+			<unsigned></unsigned>
+		</field>
+		<field name="callToActionText" type="C" size="255"/>
+		<field name="callToActionLinkText" type="C" size="255"/>
+		<field name="callToActionFonticon" type="C" size="255"/>
+		<field name="callToActionTextColor" type="C" size="20"/>
+		<field name="callToActionLinkTextColor" type="C" size="20"/>
+		<field name="callToActionButtonColor" type="C" size="20"/>
+		<field name="callToActionBackgroundColor" type="C" size="20"/>
+		<field name="externalLink" type="C" size="255"/>
+		<field name="internalLinkCID" type="I">
+			<unsigned />
+			<default value="0" />
+		</field>
+	</table>
+</schema>

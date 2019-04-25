@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btWallGallery">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="fileset" type="C" size="255"></field>
+        <field name="thumbnail" type="C" size="10"></field>
+        <field name="thumbMargin" type="C" size="10"></field>
+        <field name="captionEnable" type="C" size="10"></field>
+        <field name="easing" type="c" size="50"></field>
+        <field name="mode" type="C" size="10"></field>
+		<field name="controls" type="C" size="10"></field>
+		<field name="loopable" type="C" size="10"></field>
+		<field name="auto" type="C" size="10"></field>
+		<field name="pause" type="C" size="10"></field>
+		<field name="escKey" type="C" size="10"></field>
+		<field name="closable" type="C" size="10"></field>
+		<field name="counter" type="C" size="10"></field>
+		<field name="hideControlOnEnd" type="C" size="10"></field>
+    </table>
+    <table name="btWallGalleryThumb">
+        <field name="id" type="I"><unsigned/><key/><autoincrement/></field>
+        <field name="bID" type="I"></field>
+        <field name="fID" type="I"></field>
+        <field name="sort" type="I"></field>
+    </table>
+</schema>

@@ -1,0 +1,16 @@
+.ab-rating .spinner-img {
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+.ab-rating .spinner-img img { border: none !important; }
+
+.ab-rating .error-message { color: #ff4100; }
+
+.ab-rating .alert-danger ul { list-style-type: square; }
+
+.ab-rating .hidden {
+    display: none !important;
+    visibility: hidden !important;
+}
