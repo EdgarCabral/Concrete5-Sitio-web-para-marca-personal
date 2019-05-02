@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/zend/zend_feed_reader_32cf6f1b9ec7fdf83da2b96ed1f32a3c/ */
 /* Type: array */
-/* Expiration: 2019-04-30T09:08:22+00:00 */
+/* Expiration: 2019-05-06T18:34:45+00:00 */
 
 
 
 $loaded = true;
-$expiration = 1556615302;
+$expiration = 1557167685;
 
 $data = array();
 
@@ -18,6 +18,14 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <description>concrete5.org Blog</description>
     <generator>Zend_Feed_Writer 2 (http://framework.zend.com)</generator>
     <link>https://www.concrete5.org/about/blog</link>
+    <item>
+      <title>HereNT - In Memoriam</title>
+      <description><![CDATA[We've lost a great community member]]></description>
+      <pubDate>Fri, 26 Apr 2019 19:48:00 +0000</pubDate>
+      <link>https://www.concrete5.org/about/blog/community-blog/herent-memoriam</link>
+      <guid>https://www.concrete5.org/about/blog/community-blog/herent-memoriam</guid>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>First developer network tutorial</title>
       <description><![CDATA[No Content.]]></description>
@@ -170,17 +178,9 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
       <guid>https://www.concrete5.org/about/blog/community-blog/latest-concrete5-cascadiaphp-details</guid>
       <slash:comments>0</slash:comments>
     </item>
-    <item>
-      <title>Official End of Life on concrete5 version 6.x</title>
-      <description><![CDATA[It's been way longer than we promised, it's time to move on. ]]></description>
-      <pubDate>Fri, 24 Aug 2018 17:45:00 +0000</pubDate>
-      <link>https://www.concrete5.org/about/blog/community-blog/official-end-life-concrete5-version-6x</link>
-      <guid>https://www.concrete5.org/about/blog/community-blog/official-end-life-concrete5-version-6x</guid>
-      <slash:comments>0</slash:comments>
-    </item>
   </channel>
 </rss>
 ";
 
 /* Child Type: integer */
-$data['createdOn'] = 1556205120;
+$data['createdOn'] = 1556796348;

@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/zend/zend_feed_reader_15acfb153c80594fc2e3686f35bf91d8/ */
 /* Type: array */
-/* Expiration: 2019-04-30T05:55:20+00:00 */
+/* Expiration: 2019-05-06T22:37:56+00:00 */
 
 
 
 $loaded = true;
-$expiration = 1556603720;
+$expiration = 1557182276;
 
 $data = array();
 
@@ -18,6 +18,14 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <description>Tutorials RSS feed.</description>
     <generator>Zend_Feed_Writer 2 (http://framework.zend.com)</generator>
     <link>https://documentation.concrete5.org/</link>
+    <item>
+      <title>Session handling and GDPR</title>
+      <description><![CDATA[How to get work with sessions without creating unnecessary cookies]]></description>
+      <pubDate>Wed, 24 Apr 2019 09:59:43 +0000</pubDate>
+      <link>https://documentation.concrete5.org/tutorials/session-handling-and-gdpr</link>
+      <guid>https://documentation.concrete5.org/tutorials/session-handling-and-gdpr</guid>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Using vue.js with concrete5</title>
       <description><![CDATA[This simple tutorial explains how you can use vue.js with concrete5.]]></description>
@@ -171,17 +179,9 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
       <guid>https://documentation.concrete5.org/tutorials/using-laravel-valet-develop-concrete5-site</guid>
       <slash:comments>0</slash:comments>
     </item>
-    <item>
-      <title>How to add Google Custom Search</title>
-      <description><![CDATA[add a search box to your homepage to help people find what they need on your website.]]></description>
-      <pubDate>Fri, 12 Aug 2016 11:02:33 +0000</pubDate>
-      <link>https://documentation.concrete5.org/tutorials/how-add-google-custom-search</link>
-      <guid>https://documentation.concrete5.org/tutorials/how-add-google-custom-search</guid>
-      <slash:comments>0</slash:comments>
-    </item>
   </channel>
 </rss>
 ";
 
 /* Child Type: integer */
-$data['createdOn'] = 1556205113;
+$data['createdOn'] = 1556796341;

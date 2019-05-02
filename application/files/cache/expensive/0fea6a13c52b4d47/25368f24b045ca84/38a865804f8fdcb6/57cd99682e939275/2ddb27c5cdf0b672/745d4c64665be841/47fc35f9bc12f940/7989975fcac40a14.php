@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/doctrine/[concrete\package\easyimagegallery\src\helper\mclinstaller@[annot]][1]/ */
 /* Type: array */
-/* Expiration: 2019-04-30T14:10:06+00:00 */
+/* Expiration: 2019-05-07T02:49:10+00:00 */
 
 
 
 $loaded = true;
-$expiration = 1556633406;
+$expiration = 1557197350;
 
 $data = array();
 
@@ -14,4 +14,4 @@ $data = array();
 $data['return'] = unserialize(base64_decode('YTowOnt9'));
 
 /* Child Type: integer */
-$data['createdOn'] = 1556201568;
+$data['createdOn'] = 1556796322;
